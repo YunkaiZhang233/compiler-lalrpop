@@ -1,1 +1,5 @@
 /target
+
+# IDE, Editor and system configurations
+.idea
+.DS_Store
