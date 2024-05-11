@@ -1,0 +1,3 @@
+[submodule "wacc-testing-examples"]
+	path = wacc-testing-examples
+	url = git@github.com:YunkaiZhang233/wacc-testing-examples.git
